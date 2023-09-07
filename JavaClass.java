@@ -3,5 +3,6 @@ public class JavaClass{
 int a=1;	
 System.out.println("I am HERE");
 System.out.println("I AM CHANED");
+System.out.println(new Date());
 }
 }
