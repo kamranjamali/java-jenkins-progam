@@ -1,3 +1,4 @@
+import java.util.*;
 public class JavaClass{
 	public static void main(String sd[]){
 int a=1;	
